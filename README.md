@@ -2,8 +2,8 @@
 Welcome to my beginner-friendly C++ code repository, containing a collection of simple and helpful programs to learn the fundamentals of C++ programming.
 
 ## Table of Contents
-- [C++ Code Samples for Beginners](#cpp-code-samples-for-beginners)
-- [Sample Programs](#sample-programs)
+- [C++ Code Samples for Beginners](#c++-code-samples-for-beginners)
+- [Sample Programs](#sample-programs-out-of-so-many)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Initial Contributor](#initial-contributor)
@@ -40,6 +40,6 @@ This repository contains a collection of C++ code samples that are designed to h
 
 Contributions to this repository are welcome! If you have any new C++ code samples or improvements to existing ones, feel free to create a pull request.
 
-## Intial Contributor
+## Initial Contributor
 
 So far, all the work in this repository is purely done by me.
