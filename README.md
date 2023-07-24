@@ -6,7 +6,8 @@ Welcome to my beginner-friendly C++ code repository, containing a collection of 
 - [Sample Programs](#sample-programs)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [Intial Contributor](#intial-contributor)
+- [Initial Contributor](#initial-contributor)
+
 ## C++ Code Samples for Beginners
 
 This repository contains a collection of C++ code samples that are designed to help beginners learn the basics of C++ programming. Each code snippet is accompanied by a detailed description of its functionality and usage.
@@ -32,7 +33,7 @@ This repository contains a collection of C++ code samples that are designed to h
 
 1. Clone the repository to your local machine using `git clone`.
 2. Navigate to the directory of the desired C++ file in your terminal.
-3. Compile the C++ file using a C++ compiler (e.g., g++).
+3. Compile the C++ file using a C++ compiler (e.g., g++). For example:
 4. Run the compiled executable to see the output of the program.
 
 ## Contributing
